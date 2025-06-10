@@ -3,7 +3,7 @@
 [![CI/CD Status](https://github.com/ChatHongPT/Goorm_02/actions/workflows/deploy.yml/badge.svg)](https://github.com/ChatHongPT/Goorm_02/actions/workflows/deploy.yml)
 [![Language: JavaScript](https://img.shields.io/badge/Language-JavaScript-F7DF1E.svg?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-<img width="1235" alt="스크린샷 2025-06-10 오전 11 13 11" src="https://github.com/user-attachments/assets/af71d9b1-f17d-4e31-9613-ef3684d49744" />
+<img width="1240" alt="스크린샷 2025-06-10 오전 11 13 11" src="https://github.com/user-attachments/assets/af71d9b1-f17d-4e31-9613-ef3684d49744" />
 
 ## 📝 소개
 
