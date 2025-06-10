@@ -3,6 +3,8 @@
 [![CI/CD Status](https://github.com/ChatHongPT/Goorm_02/actions/workflows/deploy.yml/badge.svg)](https://github.com/ChatHongPT/Goorm_02/actions/workflows/deploy.yml)
 [![Language: JavaScript](https://img.shields.io/badge/Language-JavaScript-F7DF1E.svg?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
+<img width="1235" alt="스크린샷 2025-06-10 오전 11 13 11" src="https://github.com/user-attachments/assets/af71d9b1-f17d-4e31-9613-ef3684d49744" />
+
 ## 📝 소개
 
 이것은 사용자의 할 일 목록을 효율적으로 관리할 수 있도록 돕는 간단한 Todos 웹 애플리케이션입니다. `localStorage`를 사용하여 데이터를 브라우저에 저장하므로, 페이지를 새로고침해도 데이터가 유지됩니다. 깔끔하고 직관적인 사용자 인터페이스를 제공하며, CI/CD 파이프라인을 통해 GitHub Pages에 자동 배포됩니다.
