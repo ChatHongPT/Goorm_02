@@ -1,7 +1,7 @@
 # ✨ Todos 앱 ✨
 
-[![CI/CD Status](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/actions/workflows/deploy.yml/badge.svg)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/actions/workflows/deploy.yml)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![CI/CD Status](https://github.com/ChatHongPT/Goorm_02/actions/workflows/deploy.yml/badge.svg)](https://github.com/ChatHongPT/Goorm_02/actions/workflows/deploy.yml)
+[![Language: JavaScript](https://img.shields.io/badge/Language-JavaScript-F7DF1E.svg?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## 📝 소개
 
@@ -22,8 +22,8 @@
 
 1.  이 저장소를 클론합니다:
     ```bash
-    git clone https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME.git
-    cd YOUR_REPO_NAME
+    git clone https://github.com/ChatHongPT/Goorm_02.git
+    cd Goorm_02
     ```
 2.  `index.html` 파일을 웹 브라우저로 엽니다. (예: Chrome, Firefox 등)
 
@@ -31,7 +31,7 @@
 
 이 애플리케이션은 GitHub Pages를 통해 자동으로 배포됩니다. 배포된 앱은 다음 URL에서 접근할 수 있습니다:
 
-`https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPO_NAME/`
+`https://ChatHongPT.github.io/Goorm_02/`
 
 ## 🔧 CI/CD (GitHub Actions)
 
